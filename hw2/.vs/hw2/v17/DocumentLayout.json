@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\hw2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{714C8016-4C9C-490F-B345-B9AABECAEB7B}|hw2.vcxproj|C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\hw2\\bigger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{714C8016-4C9C-490F-B345-B9AABECAEB7B}|hw2.vcxproj|solutionrelative:bigger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bigger.cpp",
+              "DocumentMoniker": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\hw2\\bigger.cpp",
+              "RelativeDocumentMoniker": "bigger.cpp",
+              "ToolTip": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\hw2\\bigger.cpp",
+              "RelativeToolTip": "bigger.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T04:47:52.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
