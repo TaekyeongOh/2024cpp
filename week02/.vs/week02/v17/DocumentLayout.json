@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\week02\\",
+  "WorkspaceRootPath": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\week02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAD35CD0-3199-46B8-AC8E-AA3B9D0E745E}|week02.vcxproj|C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\week02\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAD35CD0-3199-46B8-AC8E-AA3B9D0E745E}|week02.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\week02\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\week02\\FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\week02\\FileName.cpp",
               "RelativeDocumentMoniker": "FileName.cpp",
-              "ToolTip": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\week02\\FileName.cpp",
+              "ToolTip": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\week02\\FileName.cpp",
               "RelativeToolTip": "FileName.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-11T05:13:37.077Z",
               "EditorCaption": ""

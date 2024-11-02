@@ -1,0 +1,3 @@
+﻿  ex_array.cpp
+F:\2024-2\Week07_s\ex_array.cpp(12,7): warning C4101: 'numbers' :참조되지 않은 지역 변수입니다.
+  Week07_s.vcxproj -> F:\2024-2\Week07_s\x64\Debug\Week07_s.exe
