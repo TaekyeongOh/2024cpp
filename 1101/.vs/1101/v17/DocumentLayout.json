@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taeky\\source\\repos\\1101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39B17024-FBA0-4484-A289-611F421323A2}|1101.vcxproj|C:\\Users\\taeky\\source\\repos\\1101\\grade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39B17024-FBA0-4484-A289-611F421323A2}|1101.vcxproj|solutionrelative:grade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "grade.cpp",
+              "DocumentMoniker": "C:\\Users\\taeky\\source\\repos\\1101\\grade.cpp",
+              "RelativeDocumentMoniker": "grade.cpp",
+              "ToolTip": "C:\\Users\\taeky\\source\\repos\\1101\\grade.cpp",
+              "RelativeToolTip": "grade.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T13:48:25.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

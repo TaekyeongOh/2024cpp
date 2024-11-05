@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taeky\\source\\repos\\1103\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3993ABC3-D495-4AA6-A216-5C1F661F78EA}|1103.vcxproj|C:\\Users\\taeky\\source\\repos\\1103\\structCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3993ABC3-D495-4AA6-A216-5C1F661F78EA}|1103.vcxproj|solutionrelative:structCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 316,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "structCircle.cpp",
+              "DocumentMoniker": "C:\\Users\\taeky\\source\\repos\\1103\\structCircle.cpp",
+              "RelativeDocumentMoniker": "structCircle.cpp",
+              "ToolTip": "C:\\Users\\taeky\\source\\repos\\1103\\structCircle.cpp",
+              "RelativeToolTip": "structCircle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T12:12:45.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
