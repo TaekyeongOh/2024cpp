@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\Week11_s\\week11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17720FAD-13DD-44B4-90B5-7DB4E4DD7E79}|week11.vcxproj|C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\Week11_s\\week11\\ex01_ColorPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17720FAD-13DD-44B4-90B5-7DB4E4DD7E79}|week11.vcxproj|solutionrelative:ex01_ColorPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 316,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex01_ColorPoint.cpp",
+              "DocumentMoniker": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\Week11_s\\week11\\ex01_ColorPoint.cpp",
+              "RelativeDocumentMoniker": "ex01_ColorPoint.cpp",
+              "ToolTip": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\Week11_s\\week11\\ex01_ColorPoint.cpp",
+              "RelativeToolTip": "ex01_ColorPoint.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvyUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T05:01:11.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

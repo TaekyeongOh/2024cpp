@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoya6\\Desktop\\2024-2_C\u002B\u002B\\Week14\\Week14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B3B53C-CE75-476C-97E8-76439084F366}|Week14.vcxproj|C:\\Users\\hoya6\\Desktop\\2024-2_C\u002B\u002B\\Week14\\Week14_s\\ex9-4-ScopeResolutionOperator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex9-4-ScopeResolutionOperator.cpp",
+              "DocumentMoniker": "C:\\Users\\hoya6\\Desktop\\2024-2_C\u002B\u002B\\Week14\\Week14_s\\ex9-4-ScopeResolutionOperator.cpp",
+              "RelativeDocumentMoniker": "..\\Week14_s\\ex9-4-ScopeResolutionOperator.cpp",
+              "ToolTip": "C:\\Users\\hoya6\\Desktop\\2024-2_C\u002B\u002B\\Week14\\Week14_s\\ex9-4-ScopeResolutionOperator.cpp",
+              "RelativeToolTip": "..\\Week14_s\\ex9-4-ScopeResolutionOperator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T09:06:41.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  fig8-16-ImplicitBaseConstructor.cpp
+C:\Users\hoya6\Desktop\2024-2_C++\Week13\Week13\fig8-16-ImplicitBaseConstructor.cpp(12,19): error C3246: 'B': 'final'(으)로 선언했기 때문에 'A'에서 상속할 수 없습니다.
+      C:\Users\hoya6\Desktop\2024-2_C++\Week13\Week13\fig8-16-ImplicitBaseConstructor.cpp(4,8):
+      'A' 선언을 참조하십시오.
+  

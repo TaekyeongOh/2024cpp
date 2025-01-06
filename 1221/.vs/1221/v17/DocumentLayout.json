@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\1221\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FB4A28-E601-4880-9F4F-3FB595C13913}|1221.vcxproj|C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\1221\\6_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FB4A28-E601-4880-9F4F-3FB595C13913}|1221.vcxproj|solutionrelative:6_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 316,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6_6.cpp",
+              "DocumentMoniker": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\1221\\6_6.cpp",
+              "RelativeDocumentMoniker": "6_6.cpp",
+              "ToolTip": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\1221\\6_6.cpp",
+              "RelativeToolTip": "6_6.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T15:48:59.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

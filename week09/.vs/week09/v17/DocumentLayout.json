@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\week09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A485E92-A1F7-42B5-B5FB-5DD01BC28F04}|week09.vcxproj|C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\week09\\ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A485E92-A1F7-42B5-B5FB-5DD01BC28F04}|week09.vcxproj|solutionrelative:ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 316,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex2.cpp",
+              "DocumentMoniker": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\week09\\ex2.cpp",
+              "RelativeDocumentMoniker": "ex2.cpp",
+              "ToolTip": "C:\\Users\\taeky\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C\u002B\u002B\\2024cpp\\week09\\ex2.cpp",
+              "RelativeToolTip": "ex2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T12:25:46.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
